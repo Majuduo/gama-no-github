@@ -1,0 +1,1 @@
+O curso é muito bom, mas sem ajuda de quem já tem familiaridade com o git eu não teria conseguido sozinha.
